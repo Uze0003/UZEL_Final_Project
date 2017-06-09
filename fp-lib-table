@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Battery_Holders)(type KiCad)(uri "$(KISYSMOD)\\Battery_Holders.pretty")(options "")(descr ""))
+  (lib (name Diodes_THT)(type KiCad)(uri "$(KISYSMOD)\\Diodes_THT.pretty")(options "")(descr ""))
+  (lib (name TL431-THT)(type KiCad)(uri "$(KIPRJMOD)\\TL431-THT.pretty")(options "")(descr ""))
+  (lib (name THT-TL431)(type KiCad)(uri "$(KIPRJMOD)\\THT-TL431.pretty")(options "")(descr ""))
+)

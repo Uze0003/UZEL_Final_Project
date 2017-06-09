@@ -1,0 +1,163 @@
+Cmp-Mod V01 Created by PcbNew   date = 8.06.2017 23:09:06
+
+BeginCmp
+TimeStamp = 5939A899
+Path = /59373881
+Reference = C1;
+ValeurCmp = 4uF;
+IdModule  = Capacitors_THT:C_Axial_L12.0mm_D6.5mm_P15.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A8C0
+Path = /5937D27A
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_THT:CP_Axial_L11.0mm_D8.0mm_P15.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A8D7
+Path = /59375445
+Reference = C3;
+ValeurCmp = 4UF;
+IdModule  = Capacitors_THT:C_Axial_L12.0mm_D6.5mm_P15.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A8E6
+Path = /593746B3
+Reference = D1;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_THT:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A910
+Path = /59372E52
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_D3.0mm_Horizontal_O1.27mm_Z6.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A918
+Path = /59373A4A
+Reference = IC1;
+ValeurCmp = TL431;
+IdModule  = THT-TL431:THT-TL431;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A922
+Path = /5937209C
+Reference = Q1;
+ValeurCmp = BC327;
+IdModule  = Transistors_OldSowjetAera:OldSowjetaera_Transistor_Type-I_BigPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A92C
+Path = /593720EB
+Reference = Q2;
+ValeurCmp = BC327;
+IdModule  = Transistors_OldSowjetAera:OldSowjetaera_Transistor_Type-I_BigPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A936
+Path = /59372122
+Reference = Q3;
+ValeurCmp = BC327;
+IdModule  = Transistors_OldSowjetAera:OldSowjetaera_Transistor_Type-I_BigPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A940
+Path = /5937274C
+Reference = Q4;
+ValeurCmp = TIP41;
+IdModule  = Transistors_OldSowjetAera:OldSowjetaera_Transistor_Type-II_SmallPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A956
+Path = /59372AD9
+Reference = R1;
+ValeurCmp = 100;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A96C
+Path = /59372E11
+Reference = R2;
+ValeurCmp = 330;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A982
+Path = /593742CD
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A990
+Path = /59374628
+Reference = R4;
+ValeurCmp = 2k;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A99E
+Path = /5937593A
+Reference = R5;
+ValeurCmp = 2k;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A9AC
+Path = /593751C5
+Reference = R6;
+ValeurCmp = 2k;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A9BA
+Path = /59374A64
+Reference = R7;
+ValeurCmp = 2k;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A9C8
+Path = /5937487C
+Reference = R8;
+ValeurCmp = 2k;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A9DA
+Path = /593748E5
+Reference = R9;
+ValeurCmp = 1;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5939A9FD
+Path = /593759CB
+Reference = VR1;
+ValeurCmp = 1k;
+IdModule  = Potentiometers:Potentiometer_Alps_RK097_Single_Vertical;
+EndCmp
+
+EndListe
