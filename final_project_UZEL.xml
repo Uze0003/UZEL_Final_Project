@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/Users/Abdurrahman/Desktop/Erasmus in LV/PBC/Uzel_Final_Project/Final Project/final_project_UZEL.sch</source>
+    <date>12.06.2017 23:10:30</date>
+    <tool>Eeschema 4.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>final_project_UZEL.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="Q1">
+      <value>BC327</value>
+      <footprint>Transistors_OldSowjetAera:OldSowjetaera_Transistor_Type-I_BigPads</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC327-D.PDF</datasheet>
+      <libsource lib="transistors" part="BC808-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5937209C</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>BC327</value>
+      <footprint>Transistors_OldSowjetAera:OldSowjetaera_Transistor_Type-I_BigPads</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC327-D.PDF</datasheet>
+      <libsource lib="transistors" part="BC808-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>593720EB</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>BC327</value>
+      <footprint>Transistors_OldSowjetAera:OldSowjetaera_Transistor_Type-I_BigPads</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC327-D.PDF</datasheet>
+      <libsource lib="transistors" part="BC808-40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59372122</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>TIP41</value>
+      <footprint>Transistors_OldSowjetAera:OldSowjetaera_Transistor_Type-II_SmallPads</footprint>
+      <datasheet>http://pdf1.alldatasheet.com/datasheet-pdf/view/2782/MOSPEC/TIP41.html</datasheet>
+      <libsource lib="transistors" part="2SC1815"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5937274C</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <datasheet>https://www.parallax.com/sites/default/files/downloads/150-01011-100-Ohm-Resistor-Datasheet.pdf</datasheet>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59372AD9</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>330</value>
+      <footprint>Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <datasheet>http://elcodis.com/parts/869260/UAL-10_330_OHM_1.html#datasheet</datasheet>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59372E11</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>TL431-THT:TL431-THT</footprint>
+      <datasheet>http://www.nteinc.com/specs/3000to3099/pdf/nte3020.pdf</datasheet>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59372E52</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>4uF</value>
+      <footprint>Capacitors_THT:C_Axial_L12.0mm_D6.5mm_P15.00mm_Horizontal</footprint>
+      <datasheet>http://www.mouser.com/ds/2/212/F9000_C27-1103532.pdf</datasheet>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59373881</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>TL431</value>
+      <footprint>Diodes_THT:D_A-405_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl431b.pdf</datasheet>
+      <libsource lib="final_project_UZEL-rescue" part="D_Zener-RESCUE-final_project_UZEL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59373A4A</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=b25pZC5vcmVnb25zdGF0ZS5lZHV8ZWNlNDR4MjAxMzY4fGd4OjMwNGFjN2MwY2Q2NjA2ZjU</datasheet>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>593742CD</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>2k</value>
+      <footprint>Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical</footprint>
+      <datasheet>http://igem.org/wiki/images/2/27/File-T--Technion_Israel-HardwarespecsResistors.pdf</datasheet>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59374628</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>Diodes_THT:D_DO-15_P10.16mm_Horizontal</footprint>
+      <datasheet>http://pdf1.alldatasheet.com/datasheet-pdf/view/26129/VISHAY/1N4148.html</datasheet>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>593746B3</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>2k</value>
+      <footprint>Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical</footprint>
+      <datasheet>http://igem.org/wiki/images/2/27/File-T--Technion_Israel-HardwarespecsResistors.pdf</datasheet>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5937487C</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>1</value>
+      <footprint>Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <datasheet>http://www.futurlec.com/Resistors/Res14W_Technical.shtml</datasheet>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>593748E5</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>2k</value>
+      <footprint>Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical</footprint>
+      <datasheet>http://igem.org/wiki/images/2/27/File-T--Technion_Israel-HardwarespecsResistors.pdf</datasheet>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59374A64</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>2k</value>
+      <footprint>Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical</footprint>
+      <datasheet>http://igem.org/wiki/images/2/27/File-T--Technion_Israel-HardwarespecsResistors.pdf</datasheet>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>593751C5</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>4UF</value>
+      <footprint>Capacitors_THT:C_Axial_L12.0mm_D6.5mm_P15.00mm_Horizontal</footprint>
+      <datasheet>http://www.mouser.com/ds/2/212/F9000_C27-1103532.pdf</datasheet>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59375445</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>2k</value>
+      <footprint>Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical</footprint>
+      <datasheet>http://igem.org/wiki/images/2/27/File-T--Technion_Israel-HardwarespecsResistors.pdf</datasheet>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5937593A</tstamp>
+    </comp>
+    <comp ref="VR1">
+      <value>1k</value>
+      <footprint>Potentiometers:Potentiometer_Trimmer_Piher_PT-15v15_Horizontal_Px15.0mm_Py10.0mm</footprint>
+      <datasheet>http://www.taiwanalpha.com.tw/english2014/p_e_048.htm</datasheet>
+      <libsource lib="device" part="R_Variable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>593759CB</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitors_THT:CP_Axial_L11.0mm_D8.0mm_P15.00mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/40019/173d.pdf</datasheet>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5937D27A</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="transistors" part="2SC1815">
+      <description>50V Vce, 0.15A Ic, Low Noise Audio NPN Transistor, TO-92</description>
+      <footprints>
+        <fp>TO-92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2SC1815</field>
+        <field name="Footprint">TO-92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="transistors" part="BC807-40">
+      <aliases>
+        <alias>BC808-40</alias>
+      </aliases>
+      <description>45V Vce, 0.8A Ic, PNP, SOT-23</description>
+      <docs>http://www.fairchildsemi.com/ds/BC/BC807.pdf</docs>
+      <footprints>
+        <fp>SOT-23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC807-40</field>
+        <field name="Footprint">SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="final_project_UZEL-rescue" part="D_Zener-RESCUE-final_project_UZEL">
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener-RESCUE-final_project_UZEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="~" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="LED">
+      <description>LED generic</description>
+      <footprints>
+        <fp>LED*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R_Variable">
+      <description>variable Resistor (Rheostat)</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Variable</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="final_project_UZEL-rescue">
+      <uri>C:\Users\Abdurrahman\Desktop\Erasmus in LV\PBC\Uzel_Final_Project\Final Project\final_project_UZEL-rescue.lib</uri>
+    </library>
+    <library logical="transistors">
+      <uri>C:\Program Files\KiCad\share\kicad\library\transistors.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="2" name="Net-(Q1-Pad3)">
+      <node ref="R2" pin="1"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="3" name="Net-(Q1-Pad2)">
+      <node ref="R1" pin="2"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+    <net code="4" name="Net-(R5-Pad2)">
+      <node ref="VR1" pin="1"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="5" name="Net-(C3-Pad1)">
+      <node ref="Q4" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="6" name="Net-(Q3-Pad2)">
+      <node ref="Q3" pin="2"/>
+      <node ref="Q4" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="7" name="Net-(Q1-Pad1)">
+      <node ref="Q2" pin="3"/>
+      <node ref="Q3" pin="1"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="IC1" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="D2" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="VR1" pin="2"/>
+    </net>
+    <net code="9" name="Net-(Q3-Pad3)">
+      <node ref="Q3" pin="3"/>
+      <node ref="Q4" pin="3"/>
+    </net>
+    <net code="10" name="+6V">
+      <node ref="R9" pin="1"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="11" name="Net-(C2-Pad1)">
+      <node ref="R4" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="IC1" pin="1"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="13" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="Q2" pin="1"/>
+    </net>
+    <net code="14" name="Net-(C2-Pad2)">
+      <node ref="R5" pin="1"/>
+      <node ref="R6" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="IC1" pin="~"/>
+    </net>
+  </nets>
+</export>

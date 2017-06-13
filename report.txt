@@ -1,0 +1,4 @@
+Plot: 'C:\Users\Abdurrahman\Desktop\Erasmus in LV\PBC\Uzel_Final_Project\Final Project\final_project_UZEL-F.Cu.svg' OK.
+Plot: 'C:\Users\Abdurrahman\Desktop\Erasmus in LV\PBC\Uzel_Final_Project\Final Project\final_project_UZEL-B.Cu.svg' OK.
+Plot: 'C:\Users\Abdurrahman\Desktop\Erasmus in LV\PBC\Uzel_Final_Project\Final Project\final_project_UZEL-B.SilkS.svg' OK.
+Plot: 'C:\Users\Abdurrahman\Desktop\Erasmus in LV\PBC\Uzel_Final_Project\Final Project\final_project_UZEL-F.SilkS.svg' OK.

@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_Axial_L12.0mm_D6.5mm_P15.00mm_Horizontal";1;"4uF";;;
+2;"C2";"CP_Axial_L11.0mm_D8.0mm_P15.00mm_Horizontal";1;"100nF";;;
+3;"C3";"C_Axial_L12.0mm_D6.5mm_P15.00mm_Horizontal";1;"4UF";;;
+4;"D1";"Diode_DO-35_SOD27_Horizontal_RM10";1;"1N4148";;;
+5;"D2";"LED_D3.0mm_Horizontal_O1.27mm_Z6.0mm";1;"LED";;;
+6;"IC1";"THT-TL431";1;"TL431";;;
+7;"Q1,Q3";"OldSowjetaera_Transistor_Type-I_BigPads";2;"BC327";;;
+8;"Q4";"OldSowjetaera_Transistor_Type-II_SmallPads";1;"TIP41";;;
+9;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"100";;;
+10;"R2";"R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal";1;"330";;;
+11;"R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"1k";;;
+12;"R4,R6,R7,R8";"R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical";4;"2k";;;
+13;"R5";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical";1;"2k";;;
+14;"R9";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"1";;;
+15;"VR1";"Potentiometer_Alps_RK097_Single_Vertical";1;"1k";;;
+16;"Q2";"OldSowjetaera_Transistor_Type-II_SmallPads";1;"BC327";;;
